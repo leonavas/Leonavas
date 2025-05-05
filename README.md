@@ -1,46 +1,66 @@
 <div align="center">
 
-# Rodrigo Leonavas
-##### Tech Leader & Problem Solver
-[![](https://img.shields.io/badge/@leonavas-gray?style=flat-square&logo=github)](https://github.com/leonavas)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=200&section=header&text=Rodrigo%20Leonavas&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+
+<p align="center">
+  <a href="https://github.com/leonavas">
+    <img src="https://img.shields.io/badge/@leonavas-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center" style="font-size: 16px;">
+  <strong>Tech Manager by day, Systems Handyman by necessity</strong><br>
+  <em>Fixing things, breaking things (occasionally) and gluing stuff with technology since 2005</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Manager-Febrafar-006400?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Paulo,%20SP-008000?style=flat-square&logoColor=white" />
+</p>
+
+<hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
+
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Tech Stack & Interests</h3>
+
+<p align="center" style="margin: 25px 0;">
+  <img src="https://skillicons.dev/icons?i=svelte,tailwind,nodejs,bash,go,gcp,linux,firebase,html" />
+</p>
 
 <br>
 
-> Tech Manager by day, Systems Handyman by necessity  
-> *Fixing things, breaking things (occasionally), and pretending to have everything under control since 2005*
-
-<br>
-
-<div>
- <img src="https://img.shields.io/badge/Tech%20Manager-Febrafar-blue?style=flat-square" />
- <img src="https://img.shields.io/badge/Location-São%20Paulo,%20SP-green?style=flat-square" />
+<div align="center" style="margin-bottom: 5px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=4000&pause=1000&color=006400&center=true&vCenter=true&repeat=false&width=280&lines=WE+ARE+HIRING!" alt="Typing SVG" />
 </div>
 
----
-
-### Tech Stack & Interests
-<div align="center">
- <img src="https://skillicons.dev/icons?i=svelte,tailwind,nodejs,bash,go,gcp,linux,firebase,html&theme=dark" />
+<div align="center" style="margin-top: 0; max-width: 650px;">
+  <table>
+    <tr>
+      <td style="padding: 25px; border: 2px solid #006400; border-radius: 6px; background-color: #f8f8f8;">
+        <h3 align="center" style="margin-top: 0; color: #006400;">Join Febrafar's Tech Team!</h3>
+        <p align="center">
+          We're actively recruiting talented developers to transform healthcare technology.
+        </p>
+        <ul style="margin: 20px 0;">
+          <li>Work with modern tech stack</li>
+          <li>Solve meaningful problems in healthcare</li>
+          <li>Join a collaborative and innovative team</li>
+        </ul>
+        <p align="center" style="margin-top: 25px;">
+          <a href="https://github.com/FebrafarDev">
+            <img src="https://img.shields.io/badge/Check_our_GitHub-FebrafarDev-006400?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
-<br>
-<br>
+<hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6E93B5&center=true&vCenter=true&repeat=true&width=500&lines=We+are+hiring;Come+and+join+us;To+build+the+future" alt="Typing SVG" />
-
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0;">
- <p align="center" style="font-size: 16px;">
-   <strong>🚀 Join Febrafar's Tech Team!</strong><br><br>
-   We're on a mission to transform healthcare technology, and we need passionate developers like you.<br>
-   If you love solving complex problems and want to make a real impact, we want to meet you!
- </p>
-</div>
+<div align="center" style="margin-top: 30px;">
+  <p>
+    <sub>Crafted with ☕</sub>
+  </p>
 </div>
 
----
-
-<div align="center">
- <sub>Built with ❤️ by some random LLM</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer" />
