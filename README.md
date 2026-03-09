@@ -53,8 +53,8 @@
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Get in Touch</h3>
 
 <p align="center">
-  <a href="mailto:rodrigo@leonavas.com">
-    <img src="https://img.shields.io/badge/Email-rodrigo@leonavas.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:rodrigo.leonavas@febrafar.com.br">
+    <img src="https://img.shields.io/badge/Email-rodrigo.leonavas@febrafar.com.br-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
