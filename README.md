@@ -19,42 +19,43 @@
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Tech Stack & Interests</h3>
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Interests</h3>
 
 <p align="center" style="margin: 25px 0;">
-  <img src="https://skillicons.dev/icons?i=svelte,tailwind,nodejs,bash,go,gcp,linux,firebase,html" />
+  <img src="assets/interests.svg" />
+  <img src="https://skillicons.dev/icons?i=svelte,tailwind,nodejs,bash,go,gcp,linux,firebase" />
 </p>
 
-<br>
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Stats</h3>
 
-<div align="center" style="margin-top: 0; max-width: 650px;">
-  <table>
-    <tr>
-      <td style="padding: 25px; border: 2px solid #2E8B57; border-radius: 6px; background-color: #f8f8f8;">
-        <h3 align="center" style="margin-top: 0; color: #2E8B57;">WE ARE HIRING!</h3>
-        <p align="center">
-          We're actively recruiting talented developers to transform healthcare technology.
-        </p>
-        <ul style="margin: 20px 0;">
-          <li>Work with modern tech stack</li>
-          <li>Solve meaningful problems in healthcare</li>
-          <li>Join a collaborative and innovative team</li>
-        </ul>
-        <p align="center" style="margin-top: 25px;">
-          <a href="https://github.com/FebrafarDev">
-            <img src="https://img.shields.io/badge/Check_our_GitHub-FebrafarDev-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonavas&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonavas&layout=compact&hide_border=true&title_color=2E8B57" height="120" />
+</p>
+
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins</h3>
+
+<p align="center">
+  <a href="https://github.com/leonavas/omarchy-calendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-calendar&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-dock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-dock&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-whatsapp&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-astroa50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-astroa50&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-superstrike"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-superstrike&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-mouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-mouse&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+</p>
+
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Themes</h3>
+
+<p align="center">
+  <a href="https://github.com/leonavas/omarchy-shire-light-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-shire-light-theme&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-shire-night-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-shire-night-theme&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+</p>
 
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Get in Touch</h3>
 
 <p align="center">
-  <a href="mailto:rodrigo.leonavas@febrafar.com.br">
-    <img src="https://img.shields.io/badge/Email-rodrigo.leonavas@febrafar.com.br-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://x.com/rleonavas">
+    <img src="https://img.shields.io/badge/X-@rleonavas-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
