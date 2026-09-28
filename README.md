@@ -19,44 +19,29 @@
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Interests</h3>
-
-<p align="center" style="margin: 25px 0;">
-  <img src="assets/interests.svg" />
-  <img src="https://skillicons.dev/icons?i=svelte,tailwind,nodejs,bash,go,gcp,linux,firebase" />
-</p>
-
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonavas&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57" height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonavas&layout=compact&hide_border=true&title_color=2E8B57" height="120" />
+  <img src="assets/cards/commits.svg" />
+  <img src="assets/cards/langs.svg" />
 </p>
 
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins</h3>
 
 <p align="center">
-  <a href="https://github.com/leonavas/omarchy-calendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-calendar&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-dock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-dock&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-whatsapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-whatsapp&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-astroa50"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-astroa50&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-superstrike"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-superstrike&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-mouse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-mouse&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
+  <a href="https://github.com/leonavas/omarchy-calendar"><img src="assets/cards/omarchy-calendar.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-dock"><img src="assets/cards/omarchy-dock.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-whatsapp"><img src="assets/cards/omarchy-whatsapp.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-astroa50"><img src="assets/cards/omarchy-astroa50.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-superstrike"><img src="assets/cards/omarchy-superstrike.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-mouse"><img src="assets/cards/omarchy-mouse.svg" /></a>
 </p>
 
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Themes</h3>
 
 <p align="center">
-  <a href="https://github.com/leonavas/omarchy-shire-light-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-shire-light-theme&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-  <a href="https://github.com/leonavas/omarchy-shire-night-theme"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leonavas&repo=omarchy-shire-night-theme&hide_border=true&title_color=2E8B57&icon_color=2E8B57" /></a>
-</p>
-
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Get in Touch</h3>
-
-<p align="center">
-  <a href="https://x.com/rleonavas">
-    <img src="https://img.shields.io/badge/X-@rleonavas-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <a href="https://github.com/leonavas/omarchy-shire-light-theme"><img src="assets/cards/omarchy-shire-light-theme.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-shire-night-theme"><img src="assets/cards/omarchy-shire-night-theme.svg" /></a>
 </p>
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">

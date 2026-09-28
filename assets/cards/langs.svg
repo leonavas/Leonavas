@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="136" viewBox="0 0 300 136"><style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .t { fill: #1f2328; font: 600 14px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .s { fill: #59636e; font: 400 12px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .n { fill: #1f2328; font: 700 32px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .a { fill: #2E8B57; font: 600 14px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .t, .n { fill: #e6edf3; }
+    .s { fill: #9198a1; }
+  }
+</style><rect class="bg" x="0.5" y="0.5" width="299" height="135" rx="6"/><text class="t" x="24" y="32">Top languages</text><clipPath id="r"><rect x="24" y="48" width="252" height="8" rx="4"/></clipPath><g clip-path="url(#r)"><rect x="24.0" y="48" width="64.7" height="8" fill="#2E8B57"/><rect x="88.7" y="48" width="55.3" height="8" fill="#3CB371"/><rect x="144.0" y="48" width="48.5" height="8" fill="#66CDAA"/><rect x="192.5" y="48" width="47.2" height="8" fill="#8FBC8F"/><rect x="239.7" y="48" width="20.8" height="8" fill="#20B2AA"/><rect x="260.5" y="48" width="15.5" height="8" fill="#98FB98"/></g><circle cx="28" cy="74" r="4" fill="#2E8B57"/><text class="s" x="38" y="78">Shell 26%</text><circle cx="158" cy="74" r="4" fill="#3CB371"/><text class="s" x="168" y="78">TypeScript 22%</text><circle cx="28" cy="92" r="4" fill="#66CDAA"/><text class="s" x="38" y="96">JavaScript 19%</text><circle cx="158" cy="92" r="4" fill="#8FBC8F"/><text class="s" x="168" y="96">Svelte 19%</text><circle cx="28" cy="110" r="4" fill="#20B2AA"/><text class="s" x="38" y="114">HTML 8%</text><circle cx="158" cy="110" r="4" fill="#98FB98"/><text class="s" x="168" y="114">CSS 6%</text></svg>

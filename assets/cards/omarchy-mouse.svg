@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="124" viewBox="0 0 400 124"><style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .t { fill: #1f2328; font: 600 14px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .s { fill: #59636e; font: 400 12px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .n { fill: #1f2328; font: 700 32px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  .a { fill: #2E8B57; font: 600 14px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .t, .n { fill: #e6edf3; }
+    .s { fill: #9198a1; }
+  }
+</style><rect class="bg" x="0.5" y="0.5" width="399" height="123" rx="6"/><text class="a" x="24" y="34">omarchy-mouse</text><circle cx="28" cy="100" r="5" fill="#44a51c"/><text class="s" x="40" y="104">QML</text><text class="s" x="376" y="104" text-anchor="end">★ 0</text></svg>
