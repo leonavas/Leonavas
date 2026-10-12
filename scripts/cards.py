@@ -11,6 +11,7 @@ from html import escape
 
 USER = "leonavas"
 PINS = [
+    "whatsapp-tui", "slick", "omarchy-whatsapp-tui", "omarchy-slack",
     "omarchy-calendar", "omarchy-dock", "omarchy-whatsapp",
     "omarchy-astroa50", "omarchy-superstrike", "omarchy-mouse",
     "omarchy-shire-light-theme", "omarchy-shire-night-theme",

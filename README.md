@@ -26,9 +26,24 @@
   <img src="assets/cards/langs.svg" />
 </p>
 
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Terminal Apps</h3>
+
+<p align="center">
+  <a href="https://github.com/leonavas/whatsapp-tui"><img src="assets/cards/whatsapp-tui.svg" /></a>
+  <a href="https://github.com/leonavas/slick"><img src="assets/cards/slick.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://slick.leonavas.com">
+    <img src="https://img.shields.io/badge/slick.leonavas.com-2E8B57?style=flat-square&logo=slack&logoColor=white" alt="slick.leonavas.com">
+  </a>
+</p>
+
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins</h3>
 
 <p align="center">
+  <a href="https://github.com/leonavas/omarchy-whatsapp-tui"><img src="assets/cards/omarchy-whatsapp-tui.svg" /></a>
+  <a href="https://github.com/leonavas/omarchy-slack"><img src="assets/cards/omarchy-slack.svg" /></a>
   <a href="https://github.com/leonavas/omarchy-calendar"><img src="assets/cards/omarchy-calendar.svg" /></a>
   <a href="https://github.com/leonavas/omarchy-dock"><img src="assets/cards/omarchy-dock.svg" /></a>
   <a href="https://github.com/leonavas/omarchy-whatsapp"><img src="assets/cards/omarchy-whatsapp.svg" /></a>
