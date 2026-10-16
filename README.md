@@ -19,16 +19,21 @@
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Featured</h3>
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Stats</h3>
+
+<p align="center">
+  <img src="assets/cards/commits.svg" />
+  <img src="assets/cards/langs.svg" />
+</p>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/leonavas/omawhats"><img src="assets/featured/omawhats.webp" width="820" alt="Omawhats: WhatsApp inside the Omarchy shell" /></a>
 </p>
 
 <p align="center">
-  <b><a href="https://github.com/leonavas/omawhats">Omawhats</a></b> · WhatsApp inside the Omarchy shell: WhatsApp Web's layout in your theme's colors, on whatsmeow
-  <br />
-  <a href="https://github.com/leonavas/omawhats"><img src="https://img.shields.io/github/stars/leonavas/omawhats?style=flat-square&color=2E8B57&logo=github" alt="Omawhats stars" /></a>
+  If you use WhatsApp on a daily basis, as I do, and use Omarchy, try out this beautiful version: <b><a href="https://github.com/leonavas/omawhats">Omawhats</a></b>
 </p>
 
 <br />
@@ -38,21 +43,12 @@
 </p>
 
 <p align="center">
-  <b><a href="https://github.com/leonavas/omaslack">Omaslack</a></b> · A Slack client living inside the Omarchy shell, with a bar widget that badges what's waiting
-  <br />
-  <a href="https://github.com/leonavas/omaslack"><img src="https://img.shields.io/github/stars/leonavas/omaslack?style=flat-square&color=2E8B57&logo=github" alt="Omaslack stars" /></a>
+  If you use Slack on a daily basis for professional work, as I do, and use Omarchy, try out this beautiful version: <b><a href="https://github.com/leonavas/omaslack">Omaslack</a></b>
 </p>
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Stats</h3>
-
-<p align="center">
-  <img src="assets/cards/commits.svg" />
-  <img src="assets/cards/langs.svg" />
-</p>
-
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Terminal Apps</h3>
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">TUI Apps</h3>
 
 <p align="center">
   <a href="https://github.com/leonavas/whatsapp-tui"><img src="assets/cards/whatsapp-tui.svg" /></a>
