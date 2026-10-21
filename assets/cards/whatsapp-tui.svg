@@ -9,4 +9,4 @@
     .t, .n { fill: #e6edf3; }
     .s { fill: #9198a1; }
   }
-</style><rect class="bg" x="0.5" y="0.5" width="399" height="123" rx="6"/><text class="a" x="24" y="34">whatsapp-tui</text><text class="s" x="24" y="58">A lightweight WhatsApp client for the terminal</text><text class="s" x="24" y="76">(unofficial)</text><circle cx="28" cy="100" r="5" fill="#dea584"/><text class="s" x="40" y="104">Rust</text><text class="s" x="376" y="104" text-anchor="end">★ 0</text></svg>
+</style><rect class="bg" x="0.5" y="0.5" width="399" height="123" rx="6"/><text class="a" x="24" y="34">whatsapp-tui</text><text class="s" x="24" y="58">A lightweight WhatsApp client for the terminal</text><text class="s" x="24" y="76">(unofficial)</text><circle cx="28" cy="100" r="5" fill="#dea584"/><text class="s" x="40" y="104">Rust</text><text class="s" x="376" y="104" text-anchor="end">★ 1</text></svg>
