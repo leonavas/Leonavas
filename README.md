@@ -19,11 +19,8 @@
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Stats</h3>
-
-<p align="center">
-  <img src="assets/cards/commits.svg" />
-  <img src="assets/cards/langs.svg" />
+<p align="center" style="font-size: 16px;">
+  Some plugins for people who love Omarchy:
 </p>
 
 <br />
