@@ -19,6 +19,16 @@
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 
+<p align="center">
+  <a href="https://slick.leonavas.com"><img src="assets/featured/slick.webp" width="820" alt="slick: Slack, in your terminal" /></a>
+</p>
+
+<p align="center">
+  If you live in the terminal and use Slack every day, as I do, try <b><a href="https://github.com/leonavas/slick">slick</a></b>: an ultrafast Slack client for the terminal, one small Rust binary. <a href="https://slick.leonavas.com">Watch the trailer</a>.
+</p>
+
+<hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
+
 <p align="center" style="font-size: 16px;">
   Some plugins for people who love Omarchy:
 </p>
