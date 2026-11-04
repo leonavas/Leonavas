@@ -48,7 +48,7 @@
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">TUI Apps</h3>
 
 <p align="center">
-  <a href="https://github.com/leonavas/whatsapp-tui"><img src="assets/cards/whatsapp-tui.svg" /></a>
+  <a href="https://github.com/leonavas/whatstui"><img src="assets/cards/whatstui.svg" /></a>
   <a href="https://github.com/leonavas/slick"><img src="assets/cards/slick.svg" /></a>
 </p>
 

@@ -11,12 +11,13 @@ from html import escape
 
 USER = "leonavas"
 PINS = [
-    "whatsapp-tui", "slick", "omarchy-whatsapp-tui", "omarchy-slack",
+    "whatstui", "slick", "omarchy-whatsapp-tui", "omarchy-slack",
     "omarchy-calendar", "omarchy-dock", "omarchy-whatsapp",
     "omarchy-astroa50", "omarchy-superstrike", "omarchy-mouse",
     "omarchy-shire-light-theme", "omarchy-shire-night-theme",
 ]
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "cards")
+DISPLAY = {"whatstui": "WhatsTUI"}
 ACCENT = "#2E8B57"
 LANG_COLORS = ["#2E8B57", "#3CB371", "#66CDAA", "#8FBC8F", "#20B2AA", "#98FB98"]
 
@@ -141,7 +142,7 @@ def pin_svg(repo):
         meta += (f'<circle cx="28" cy="100" r="5" fill="{lang["color"] or ACCENT}"/>'
                  f'<text class="s" x="40" y="104">{escape(lang["name"])}</text>')
     meta += f'<text class="s" x="376" y="104" text-anchor="end">★ {r["stargazerCount"]}</text>'
-    return card(400, 124, f'<text class="a" x="24" y="34">{escape(r["name"])}</text>{desc}{meta}')
+    return card(400, 124, f'<text class="a" x="24" y="34">{escape(DISPLAY.get(r["name"], r["name"]))}</text>{desc}{meta}')
 
 
 def main():
