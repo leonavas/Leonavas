@@ -59,13 +59,6 @@
 
 <p align="center">
   <a href="https://github.com/leonavas/whatstui"><img src="assets/cards/whatstui.svg" /></a>
-  <a href="https://github.com/leonavas/slick"><img src="assets/cards/slick.svg" /></a>
-</p>
-
-<p align="center">
-  <a href="https://slick.leonavas.com">
-    <img src="https://img.shields.io/badge/slick.leonavas.com-2E8B57?style=flat-square&logo=slack&logoColor=white" alt="slick.leonavas.com">
-  </a>
 </p>
 
 <h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins</h3>
