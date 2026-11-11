@@ -61,25 +61,20 @@
   <a href="https://github.com/leonavas/whatstui"><img src="assets/cards/whatstui.svg" /></a>
 </p>
 
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins</h3>
+<h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Plugins &amp; Themes</h3>
 
-<p align="center">
-  <a href="https://github.com/leonavas/omarchy-whatsapp-tui"><img src="assets/cards/omarchy-whatsapp-tui.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-slack"><img src="assets/cards/omarchy-slack.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-calendar"><img src="assets/cards/omarchy-calendar.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-dock"><img src="assets/cards/omarchy-dock.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-whatsapp"><img src="assets/cards/omarchy-whatsapp.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-astroa50"><img src="assets/cards/omarchy-astroa50.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-superstrike"><img src="assets/cards/omarchy-superstrike.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-mouse"><img src="assets/cards/omarchy-mouse.svg" /></a>
-</p>
-
-<h3 align="center" style="font-size: 18px; margin-top: 30px;">Omarchy Themes</h3>
-
-<p align="center">
-  <a href="https://github.com/leonavas/omarchy-shire-light-theme"><img src="assets/cards/omarchy-shire-light-theme.svg" /></a>
-  <a href="https://github.com/leonavas/omarchy-shire-night-theme"><img src="assets/cards/omarchy-shire-night-theme.svg" /></a>
-</p>
+<table align="center">
+  <tr><td><a href="https://github.com/leonavas/omarchy-slack"><b>slack</b></a></td><td>Slack in the bar: badges, hover preview and reactions</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-whatsapp"><b>whatsapp</b></a></td><td>WhatsApp as a tray icon with an unread dot</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-whatsapp-tui"><b>whatsapp-tui</b></a></td><td>Bar widget for WhatsTUI</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-calendar"><b>calendar</b></a></td><td>Google Calendar in the bar, with a day/week popup</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-dock"><b>dock</b></a></td><td>Open windows as icons, in on-screen order</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-mouse"><b>mouse</b></a></td><td>Mouse battery and pointer sensitivity</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-astroa50"><b>astroa50</b></a></td><td>Astro A50 battery, EQ, mic and mix</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-superstrike"><b>superstrike</b></a></td><td>Logitech PRO X 2 SUPERSTRIKE settings, no G HUB</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-shire-night-theme"><b>Shire Night</b></a></td><td>Theme · Loam, lamplight and pipeweed</td></tr>
+  <tr><td><a href="https://github.com/leonavas/omarchy-shire-light-theme"><b>Shire Light</b></a></td><td>Theme · Shire Night, one soft step lighter</td></tr>
+</table>
 
 <hr style="width:50%; border:none; border-top:1px solid #eaeaea; margin: 30px auto;">
 

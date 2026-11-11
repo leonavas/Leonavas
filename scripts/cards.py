@@ -10,12 +10,7 @@ from datetime import datetime, timezone
 from html import escape
 
 USER = "leonavas"
-PINS = [
-    "whatstui", "slick", "omarchy-whatsapp-tui", "omarchy-slack",
-    "omarchy-calendar", "omarchy-dock", "omarchy-whatsapp",
-    "omarchy-astroa50", "omarchy-superstrike", "omarchy-mouse",
-    "omarchy-shire-light-theme", "omarchy-shire-night-theme",
-]
+PINS = ["whatstui"]
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "cards")
 DISPLAY = {"whatstui": "WhatsTUI"}
 ACCENT = "#2E8B57"
@@ -129,7 +124,7 @@ def wrap(text, width=52):
 def pin_svg(repo):
     r = gql(
         """query($u:String!,$r:String!){repository(owner:$u,name:$r){
-             name description stargazerCount primaryLanguage{name color}}}""",
+             name description primaryLanguage{name color}}}""",
         u=USER, r=repo,
     )["repository"]
     desc = "".join(
@@ -141,7 +136,6 @@ def pin_svg(repo):
         lang = r["primaryLanguage"]
         meta += (f'<circle cx="28" cy="100" r="5" fill="{lang["color"] or ACCENT}"/>'
                  f'<text class="s" x="40" y="104">{escape(lang["name"])}</text>')
-    meta += f'<text class="s" x="376" y="104" text-anchor="end">★ {r["stargazerCount"]}</text>'
     return card(400, 124, f'<text class="a" x="24" y="34">{escape(DISPLAY.get(r["name"], r["name"]))}</text>{desc}{meta}')
 
 
